@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    background: linear-gradient(to right, #2193b0, #6dd5ed);
+    text-align: center;
+    color: white;
+}
+
+.container {
+    margin-top: 80px;
+}
+
+input, button {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+button {
+    background: orange;
+    color: white;
+    cursor: pointer;
+}
+
+.card {
+    margin: 20px auto;
+    padding: 20px;
+    width: 300px;
+    background: rgba(255,255,255,0.2);
+    border-radius: 10px;
+}
+
+canvas {
+    max-width: 500px;
+    margin: auto;
+}
